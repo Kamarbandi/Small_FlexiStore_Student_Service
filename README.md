@@ -6,4 +6,4 @@ There is a Student Service interface with two implementations: one stores data i
 * create db "student_db"
 * first time when you run application change value in ddl-auto in application env with a "create", after again to "update"
 
-![img](https://github.com/Kamarbandi/Small_FlexiStore_Student_Service/store.PNG?raw=true)
+![img](https://github.com/Kamarbandi/Small_FlexiStore_Student_Service/blob/main/store.PNG)
